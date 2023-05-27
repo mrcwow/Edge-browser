@@ -12,3 +12,13 @@
 | Windows Fluent scrollbars.                          | edge://flags/#edge-overlay-scrollbars-win-style      |
 | Global Media Controls                               | edge://flags/#edge-global-media-controls             |
 | Back-forward cache                                  | edge://flags/#back-forward-cache                     |
+## Visual flags
+| Name                                                | Link                                                 |
+|-----------------------------------------------------|------------------------------------------------------|
+| Microsoft Edge rounded corners                      | edge://flags/#edge-rounded-containers                |
+| Make Rounded Tabs feature available                 | edge://flags/#edge-visual-rejuv-rounded-tabs         |
+| Enable Windows 11 Acrylic effect in menus           | edge://flags/#edge-visual-rejuv-materials-menu       |
+| Microsoft Edge profile icon in title bar            | edge://flags/#edge-minimal-toolbar                   |
+| Microsoft Edge Split Screen                         | edge://flags/#edge-split-screen                      |
+| Project Kodiak: Terminology                         | edge://flags/#edge-project-kodiak                    |
+| Project Kodiak: Look and Feel                       | edge://flags/#edge-project-kodiak-look-and-feel      |
