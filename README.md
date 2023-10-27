@@ -15,10 +15,10 @@
 ## Visual flags
 | Name                                                | Link                                                 |
 |-----------------------------------------------------|------------------------------------------------------|
-| Microsoft Edge rounded corners                      | edge://flags/#edge-rounded-containers                |
+| Microsoft Edge rounded corners NOW STABLE                      | edge://flags/#edge-rounded-containers                |
 | Make Rounded Tabs feature available                 | edge://flags/#edge-visual-rejuv-rounded-tabs         |
-| Enable Windows 11 Acrylic effect in menus           | edge://flags/#edge-visual-rejuv-materials-menu       |
+| Enable Windows 11 Acrylic effect in menus NOW STABLE           | edge://flags/#edge-visual-rejuv-materials-menu       |
 | Microsoft Edge profile icon in title bar            | edge://flags/#edge-minimal-toolbar                   |
-| Microsoft Edge Split Screen                         | edge://flags/#edge-split-screen                      |
+| Microsoft Edge Split Screen NOW STABLE                         | edge://flags/#edge-split-screen                      |
 | Project Kodiak: Terminology                         | edge://flags/#edge-project-kodiak                    |
 | Project Kodiak: Look and Feel                       | edge://flags/#edge-project-kodiak-look-and-feel      |
